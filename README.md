@@ -21,7 +21,7 @@
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/cristobal-balcazar-136947254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cristobal Balcazar Acevedo" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/cristobal-balcazar-136947254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cristobal Balcazar Acevedo" height="30" width="40" /></a>
 <a href="https://wa.me/56991270702" target="blank"><img align="center" src="https://www.svgrepo.com/show/37283/whatsapp.svg" alt="Cristobal Balcazar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_.drunk_cat_?utm_source=qr&igsh=Y2Vna2o0N3FqYXhs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.drunk_cat_" height="30" width="40" /></a>
 </p>
