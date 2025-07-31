@@ -43,6 +43,11 @@
   <img style="width: 50%; max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=DERCHITO&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
 </div>
 
+<!-- Snake Animation -->
+<div align="center">
+  ![snake gif](https://github.com/DERCHITO/DERCHITO/blob/output/github-snake-dark.svg)
+</div>
+
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
