@@ -7,8 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=DERCHITO&label=Profile%20views&color=0e75b6&style=flat" alt="DERCHITO" />
 </p>
 <!-- BREVE DESCRIPCION -->
+
 - 📚 I am currently studying at [Universidad Tecnologica Metropolitana]
+
 - 🌱 I am currently in the race **computer engineering**
+  
 - 📫 How to reach me **crisbalcazar.a@gmail.com**
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
