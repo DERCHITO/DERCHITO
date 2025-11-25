@@ -8,9 +8,7 @@
 </p>
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [Universidad Tecnologica Metropolitana]
-
 - 🌱 I am currently in the race **computer engineering**
-
 - 📫 How to reach me **crisbalcazar.a@gmail.com**
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
@@ -23,7 +21,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353805/google-cloud.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452183/cpp.svg" alt="cpp" width="40" height="40"/> </a> 
+<a target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452183/cpp.svg" alt="cpp" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -36,9 +34,10 @@
 </div>
 <!-- Snake Animation -->
 <div align="center">
-  ![snake gif](https://github.com/DERCHITO/DERCHITO/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/DERCHITO/DERCHITO/blob/output/github-snake-dark.svg)
 </div>
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
