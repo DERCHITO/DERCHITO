@@ -34,6 +34,7 @@
 </div>
 <!-- Snake Animation -->
 <div align="center">
+  
   ![snake gif](https://github.com/DERCHITO/DERCHITO/blob/output/github-snake-dark.svg)
 </div>
 <!-- GIF FOOTER -->
