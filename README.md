@@ -8,13 +8,15 @@
 </p>
 <!-- BREVE DESCRIPCION -->
 
-- 📚 I am currently studying at [Universidad Tecnologica Metropolitana]
+## 💻 Hi, I'm Cristóbal Balcazar
 
-- 🌱 I am currently in the race **computer engineering**
-  
-- 📫 How to reach me **crisbalcazar.a@gmail.com**
+- 🎓 **Computer Engineer** from the Universidad Tecnológica Metropolitana (UTEM).
+- 🚀 **Junior Full-Stack Developer** with a strong interest in and enthusiasm for backend development.
+- ⚡ Committed to continuous learning, writing clean code, and applying best practices in real-world projects.
+- 📫 Contact me: **crisbalcazar.a@gmail.com**
+
 <!-- CONTACTO -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">¡Let's connect!</h3>
 
 <table align="left">
   <tr>
@@ -28,46 +30,57 @@
         <img src="https://www.svgrepo.com/show/37283/whatsapp.svg" alt="Cristobal Balcazar" height="30" width="40" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://www.instagram.com/_.drunk_cat_?utm_source=qr&igsh=Y2Vna2o0N3FqYXhs" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.drunk_cat_" height="30" width="40" />
-      </a>
-    </td>
   </tr>
 </table>
 
 <br>
 <br>
+
+---
+
+### 🎯 Areas of Interest and Specialization
+
+*   **Full-Stack & Backend Development:** Building structured applications and APIs using tools such as PHP, .NET (C#), and Python.
+*   **AI-Driven Cybersecurity:** I enjoy researching and applying Artificial Intelligence to vulnerability detection, threat analysis, and security within the development lifecycle.
+*   **DevOps & Cloud Computing:** Interested in deepening my expertise in deployment automation (CI/CD), containers, and cloud services using Google Cloud Platform (GCP), AWS, or Azure.
+
+---
+
 <!-- LENGUAJES Y HERRAMIENTAS -->
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Technologies and Tools:</h3>
 
 <div align="center">
 <table>
   <tr>
-    <td align="center"><a href="https://cloud.google.com"><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" width="40" alt="gcp"/></a></td>
-    <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="css3"/></a></td>
-    <td align="center"><img src="https://www.svgrepo.com/show/452183/cpp.svg" width="40" alt="cpp"/></td>
-    <td align="center"><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="figma"/></a></td>
-    <td align="center"><a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="firebase"/></a></td>
-    <td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="git"/></a></td>
-    <td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="html5"/></a></td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="js"/></a></td>
-    <td align="center"><a href="https://www.postgresql.org"><img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" width="40" alt="postgres"/></a></td>
-    <td align="center"><a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" alt="vscode"/></a></td>
+    <!-- Tus lenguajes favoritos -->
+    <td align="center" title="PHP"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="php"/></td>
+    <td align="center" title="Laravel"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" alt="laravel"/></td>
+    <td align="center" title=".NET"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" alt="dotnet"/></td>
+    <td align="center" title="C#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="csharp"/></td>
+    <td align="center" title="C++"><img src="https://www.svgrepo.com/show/452183/cpp.svg" width="40" alt="cpp"/></td>
+    <td align="center" title="C"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="c"/></td>
+    <td align="center" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="python"/></td>
+    <!-- Base de datos, Frontend y Cloud -->
+    <td align="center" title="PostgreSQL"><img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" width="40" alt="postgres"/></td>
+    <td align="center" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="js"/></td>
+    <td align="center" title="Google Cloud"><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" width="40" alt="gcp"/></td>
   </tr>
 </table>
 </div>
 
 <br/>
 
+<!-- ESTADÍSTICAS -->
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=DERCHITO&theme=gotham&show_icons=true"/>
 </p>
-  
-  ![snake gif](https://github.com/DERCHITO/DERCHITO/blob/output/github-snake-dark.svg)
+
+<!-- JUEGO DE LA SERPIENTE -->
+<div align="center">
+  <img src="https://github.com/DERCHITO/DERCHITO/blob/output/github-snake-dark.svg" alt="snake gif" />
 </div>
+
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
